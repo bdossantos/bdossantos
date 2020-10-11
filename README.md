@@ -13,3 +13,4 @@ Web Operations, Web performance, Building Secure & Reliable Systems
 
 * [Linkedin](http://fr.linkedin.com/in/benjaminds)
 * [Twitter](http://twitter.com/benjamin_ds)
+* [Strava](https://www.strava.com/athletes/6925704)
