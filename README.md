@@ -11,8 +11,8 @@ Web Operations, Web performance, Building Secure & Reliable Systems
 
 #### Reach me
 
-* [Linkedin](http://fr.linkedin.com/in/benjaminds)
-* [Twitter](http://twitter.com/benjamin_ds)
-* [Strava](https://www.strava.com/athletes/6925704)
+- [Linkedin](http://fr.linkedin.com/in/benjaminds)
+- [Twitter](http://twitter.com/benjamin_ds)
+- [Strava](https://www.strava.com/athletes/6925704)
 
 ![Benjamin Dos Santos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdossantos&count_private=true)
